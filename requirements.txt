@@ -1,0 +1,4 @@
+base45==0.4.3
+cbor2==5.4.1
+cose==0.9.dev8
+qrtools==0.0.2
